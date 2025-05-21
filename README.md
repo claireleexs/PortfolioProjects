@@ -11,7 +11,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 ## 🗂 Projects
 
 ### 1. **COVID-19 Data Exploration** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Covid_19_SQL_Scripts.sql)
- [\[Dashboard\](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
+ [\[Dashboard\]](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
 *Tools*: 
 - SQL (MySQL) 
 - Tableau 

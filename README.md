@@ -9,7 +9,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ## 🗂 Projects
 
-### 1. **COVID-19 Data Exploration** [\[SQL Script\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Covid_19_SQL_Scripts.sql)
+### 1. **COVID-19 Data Exploration** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Covid_19_SQL_Scripts.sql)
 
  [\[Dashboard\]][(https://public.tableau.com/views/A10-CountryComparativeAnalysis/Page1)](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
 *Tools*: 
@@ -19,7 +19,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ---
 
-### 2. **HR Analytics: Employee Attrition Prediction** [\[Notebook\]](https://claireleexs.github.io/portfolioprojects/HR_Analytics.ipynb)
+### 2. **HR Analytics: Employee Attrition Prediction** [\[Notebook\]](https://claireleexs.github.io/portfolioprojects/HR_Analytics.ipynb](https://github.com/claireleexs/PortfolioProjects/blob/main/HR_Analytics.ipynb)
 *Tools*: 
 - Python (Scikit-learn, XGBoost)
 - Pandas (Data Wrangling)
@@ -27,7 +27,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ---
 
-### 3. **Advertising Spend Forecasting** [\[Notebook\]](https://claireleexs.github.io/portfolioprojects/Ads_Spent_Forecasting.ipynb)
+### 3. **Advertising Spend Forecasting** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Ads_Spent_Forecasting.ipynb)
 *Tools*:
 - Facebook Prophet
 - ARIMA
@@ -35,7 +35,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ---
 
-### 4. **Amazon Food Reviews Sentiment Analysis** [\[Notebook\]](/Sentiment_Analysis) [\[Data\]](/Data)
+### 4. **Amazon Food Reviews Sentiment Analysis** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Sentiment_Analysis_on_Amazon_Fine_Food_Reviews.ipynb)
 *Tools*:
 - NLP: NLTK, SpaCy
 - Transformers (RoBERTa)
@@ -46,7 +46,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ## 🛠 Technical Skills
 **Languages**: Python (Pandas, NumPy), SQL, 
-**ML**: Scikit-learn, TensorFlow, XGBoost  
+**ML**: Scikit-learn, TensorFlow
 **Visualization**: Tableau, Matplotlib, Power BI  
 **Big Data**: Spark, Hadoop (HDFS)  
 

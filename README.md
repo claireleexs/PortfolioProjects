@@ -1,7 +1,8 @@
 # 📁 Data Science Portfolio Repository
 
 **Claire Lee** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/claireleexs)
- | [![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com/app/profile/claire.lee.xiao.si)
+ | [Tableau](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
+
 
 A collection of data-driven projects demonstrating technical skills in SQL, Python, machine learning, and data storytelling.
 

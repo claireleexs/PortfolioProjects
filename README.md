@@ -10,8 +10,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 ## 🗂 Projects
 
 ### 1. **COVID-19 Data Exploration** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/Covid_19_SQL_Scripts.sql)
-
- [\[Dashboard\]][(https://public.tableau.com/views/A10-CountryComparativeAnalysis/Page1)](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
+ [\[Dashboard\](https://public.tableau.com/app/profile/claire.lee.xiao.si/viz/A10-CountryComparativeAnalysis/Page1)
 *Tools*: 
 - SQL (MySQL) 
 - Tableau 
@@ -19,7 +18,7 @@ A collection of data-driven projects demonstrating technical skills in SQL, Pyth
 
 ---
 
-### 2. **HR Analytics: Employee Attrition Prediction** [\[Notebook\]](https://claireleexs.github.io/portfolioprojects/HR_Analytics.ipynb](https://github.com/claireleexs/PortfolioProjects/blob/main/HR_Analytics.ipynb)
+### 2. **HR Analytics: Employee Attrition Prediction** [\[Notebook\]](https://github.com/claireleexs/PortfolioProjects/blob/main/HR_Analytics.ipynb)
 *Tools*: 
 - Python (Scikit-learn, XGBoost)
 - Pandas (Data Wrangling)
